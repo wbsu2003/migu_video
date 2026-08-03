@@ -5976,8 +5976,71 @@
     <channel id="江苏城市频道">
         <display-name lang="zh">江苏城市频道</display-name>
     </channel>
-    <programme channel="江苏城市频道" start="20260803000000 +0800" stop="20260803235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江苏城市频道" start="20260803000000 +0800" stop="20260803002700 +0800">
+        <title lang="zh">相亲相爱</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803002700 +0800" stop="20260803003200 +0800">
+        <title lang="zh">江南文脉</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803003200 +0800" stop="20260803010300 +0800">
+        <title lang="zh">人间真情</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803010300 +0800" stop="20260803012300 +0800">
+        <title lang="zh">非遗有新人</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803012300 +0800" stop="20260803045800 +0800">
+        <title lang="zh">谢谢你来了</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803045800 +0800" stop="20260803063200 +0800">
+        <title lang="zh">相亲相爱</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803063200 +0800" stop="20260803074500 +0800">
+        <title lang="zh">零距离</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803074500 +0800" stop="20260803084500 +0800">
+        <title lang="zh">谢谢你来了</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803084500 +0800" stop="20260803121300 +0800">
+        <title lang="zh">新城市客厅</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803121300 +0800" stop="20260803122600 +0800">
+        <title lang="zh">壹周播报</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803122600 +0800" stop="20260803133500 +0800">
+        <title lang="zh">金牌调解</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803133500 +0800" stop="20260803151200 +0800">
+        <title lang="zh">相亲相爱</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803151200 +0800" stop="20260803165900 +0800">
+        <title lang="zh">新城市客厅</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803165900 +0800" stop="20260803175000 +0800">
+        <title lang="zh">约见名医</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803175000 +0800" stop="20260803181000 +0800">
+        <title lang="zh">新城市资讯</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803181000 +0800" stop="20260803193000 +0800">
+        <title lang="zh">零距离</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803193000 +0800" stop="20260803200000 +0800">
+        <title lang="zh">老开心啦</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803200000 +0800" stop="20260803203800 +0800">
+        <title lang="zh">约见名医</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803203800 +0800" stop="20260803205600 +0800">
+        <title lang="zh">明理说法</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803205600 +0800" stop="20260803215600 +0800">
+        <title lang="zh">方圆八百米</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803215600 +0800" stop="20260803225500 +0800">
+        <title lang="zh">方圆八百米</title>
+    </programme>
+    <programme channel="江苏城市频道" start="20260803225500 +0800" stop="20260804000000 +0800">
+        <title lang="zh">相亲相爱</title>
     </programme>
     <channel id="江苏国际">
         <display-name lang="zh">江苏国际</display-name>
